@@ -1,0 +1,23 @@
+{
+  "name": "miniproject-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apitchaya-12/miniproject-final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apitchaya-12/miniproject-final/issues"
+  },
+  "homepage": "https://github.com/Apitchaya-12/miniproject-final#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
